@@ -4,6 +4,25 @@ body{
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #9b6262;
+    background-color: bisque;    
     font-family: Arial;;
+}
+
+.form-container{
+    background-color: white ;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    border-radius: 5px;
+    
+}
+
+.form-container input{
+
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box ;
+
+
 }
