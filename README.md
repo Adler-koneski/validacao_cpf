@@ -4,7 +4,7 @@ Este é um projeto simples de **validação de CPF (Cadastro de Pessoa Física)*
 
 ---
 
-🌐 [Clique aqui para ver o cardápio online](https://adler-koneski.github.io/validacao_cpf/)
+🌐 [Clique aqui para ver a validação de CPF](https://adler-koneski.github.io/validacao_cpf/)
 
 ---
 
