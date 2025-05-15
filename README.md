@@ -4,6 +4,10 @@ Este é um projeto simples de **validação de CPF (Cadastro de Pessoa Física)*
 
 ---
 
+🌐 [Clique aqui para ver o cardápio online](https://adler-koneski.github.io/validacao_cpf/)
+
+---
+
 ## 💡 Funcionalidades
 
 - Campo para digitar o CPF
